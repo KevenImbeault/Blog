@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction au blog et à la série <let's code />
+title: Introduction au blog
 date: 2016-09-12
 ---
 **_Le commencement_**

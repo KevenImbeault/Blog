@@ -22,6 +22,10 @@
     &:visited {
         color: $brand-color;
     }
+
+    a {
+      text-decoration: none;
+    }
 }
 
 .site-nav {
@@ -220,6 +224,10 @@
 
     @include media-query($on-laptop) {
         font-size: 36px;
+    }
+
+    a {
+      text-decoration: none;
     }
 }
 
