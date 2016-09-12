@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keven Imbeault | Blog</title>
+    <description>Le blog officiel de Keven Imbeault - kevenimbeault.github.io</description>
+    <link>https://kevenimbeault.github.io/</link>
+    <atom:link href="https://kevenimbeault.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 11 Sep 2016 20:29:11 -0400</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2016 20:29:11 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Bienvenue sur mon blog !</title>
+        <description>&lt;p&gt;Bon, pour commencer je précise que se blog fonctionne avec Jekyll, pour plus d’infos aller sur le site de &lt;a href=&quot;https://jekyllrb.com/docs/home/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Maintenant que ceci à été dis, vous vous demandez surement pourquoi créer ce blog non ? Eh bien la raison est simple : Je veut pouvoir écrire des articles à propos de la technologie qui seront tous sur ce blog (et peut-être sur d’autres sites tel que Medium sauf un peu plus tard, quelque chose comme une semaine plus tard).&lt;/p&gt;
+
+&lt;p&gt;J’ai hâte de vous reparlez ! (Bientôt j’espère)&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 11 Sep 2016 00:00:00 -0400</pubDate>
+        <link>https://kevenimbeault.github.io/2016/09/11/bienvenue-sur-mon-blog.html</link>
+        <guid isPermaLink="true">https://kevenimbeault.github.io/2016/09/11/bienvenue-sur-mon-blog.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
