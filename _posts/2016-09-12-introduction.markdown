@@ -11,6 +11,7 @@ Au cas que vous avez trouvés ce blog directement sur Google ou que vous n'avez 
 
 
 *Pourquoi avoir ce blog ?*
+
 Comme j'ai dit dans le premier post, je voulais un endroit où parler de la technologie que je puisse faire évoluer avec mon site web (Les couleurs, police, etc...). J'ai donc opté pour un blog Jekyll héberger sur Github grâce à leur système Github Pages.
 
 Également, ce blog me servira à améliorer mon français. Donc, si vous voyez une ou des fautes d'orthographe, vous pouvez me l'indiquer via [Twitter][monTwitter] ou [Facebook][monFacebook].
